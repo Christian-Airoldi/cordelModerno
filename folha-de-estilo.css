@@ -46,7 +46,7 @@ html, body {min-height: 100%;}
         background: #00000080;
         color: #ffffff;
         }
-.imagem > p {background: #000000; color: #ffffff; display: inline-block; padding: 7px}
+.imagem > p {background: #000000; color: #ffffff; display: inline-block; padding: 7px;  text-size: 2.4vw}
 
 #img01 {
        background: #00000001 url('imagens/background001.jpg') right center no-repeat fixed;
